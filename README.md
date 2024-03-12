@@ -4,8 +4,8 @@ Este proyecto es un simple formulario de contacto que utiliza HTML, CSS y PHP pa
 
 ## Instalación
 
-1. Clona el repositorio en tu máquina local utilizando el comando: git clone https://github.com/tu_usuario/formulario-de-contacto.git
-2. Abre el archivo `formulario_contacto.html` en tu navegador web para acceder al formulario.
+1. Clona el repositorio en tu máquina local utilizando el comando: git clone https://github.com/Erik27p/ContactForm.git
+2. Abre el archivo `fom.html` en tu navegador web para acceder al formulario.
 
 ## Uso
 
