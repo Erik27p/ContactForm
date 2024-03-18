@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 echo "<p>¡Gracias! Su formulario ha sido enviado correctamente.</p>";
 } else {
   
-    header("Location: formulario_contacto.html");
+    header("Location: fom.html");
     exit();
 }
 ?>
